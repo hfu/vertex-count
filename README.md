@@ -1,0 +1,2 @@
+# vertex-count
+count vertex
